@@ -241,7 +241,7 @@ __END__
 
 =head1 NAME
 
-Text::Hatena::Embed
+Text::Hatena::Embed - All your URL are embeded to us
 
 =head1 SYNOPSIS
 
@@ -253,7 +253,7 @@ Text::Hatena::Embed
 
 =head1 DESCRIPTION
 
-oEmbed に対応したサイトのURLを与えると html を返します。
+Text::Hatena::Embed is a module that embeds any URL.
 
 =head1 SEE ALSO
 
